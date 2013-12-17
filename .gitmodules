@@ -1,0 +1,24 @@
+[submodule "monitor"]
+	path = monitor
+	url = https://github.com/bmatthews68/monitor.git
+[submodule "crx-maven-plugin"]
+	path = crx-maven-plugin
+	url = https://github.com/bmatthews68/crx-maven-plugin.git
+[submodule "ldap-maven-plugin"]
+	path = ldap-maven-plugin
+	url = https://github.com/bmatthews68/ldap-maven-plugin.git
+[submodule "spoon-maven-plugin"]
+	path = spoon-maven-plugin
+	url = https://github.com/bmatthews68/spoon-maven-plugin.git
+[submodule "inmemdb-maven-plugin"]
+	path = inmemdb-maven-plugin
+	url = https://github.com/bmatthews68/inmemdb-maven-plugin.git
+[submodule "bower-maven-plugin"]
+	path = bower-maven-plugin
+	url = https://github.com/bmatthews68/bower-maven-plugin.git
+[submodule "emailserver-maven-plugin"]
+	path = emailserver-maven-plugin
+	url = https://github.com/bmatthews68/emailserver-maven-plugin.git
+[submodule "xcodebuild-maven-plugin"]
+	path = xcodebuild-maven-plugin
+	url = https://github.com/bmatthews68/xcodebuild-maven-plugin.git
